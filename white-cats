@@ -1,0 +1,45 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+<title>
+White cats
+</title>
+<link rel="stylesheet" href="borderbw.css">
+</head>
+<body>
+    <h1 class="bannerbw">
+        White cats
+    </h1>
+    <h2 class="bannerbw">
+        Types of White cats
+    </h2>
+    <p>
+        <li>Turkish Angora</li>
+        <li>Persian Cat</li>
+        <li>Siamese Cat</li>
+        <li>Cornish Rex</li>
+        <li>Scottish Fold</li>
+    </p>
+    <h2 class="bannerbw">
+        Characteristics and physical attributes of White cats
+    </h2>
+    <p>
+        White cats can have dense, silky, short, or wavy coats, with striking eye colors such as blue, green, gold, or odd eyes (one blue, one gold).
+        Some may have rounded features, while others appear sleek and agile.
+        Personality traits vary—some breeds are gentle and quiet, like Persians, while others are playful and energetic, such as Cornish Rex or Turkish Van cats.
+        Some white cats with blue eyes may have a genetic predisposition to deafness.
+    </p>
+    <h2 class="bannerbw">
+        Should you get an White cats?
+    </h2>
+    <p>
+        White cats are undeniably beautiful, often having striking eye colors like blue, green, or gold. 
+        Some breeds, like Turkish Angoras or Maine Coons, have gorgeous fluffy coats, while others, like Siamese or Cornish Rex, have sleeker appearances.
+        However, there are some things to consider. 
+        White cats, especially those with blue eyes, can have a higher chance of deafness due to genetics. 
+        This doesn’t mean they can’t live happy, fulfilling lives—it just requires some adjustments in communication and care. 
+        Their pristine coats also tend to highlight dirt more, so they may need extra grooming to keep them looking their best.
+        Ultimately, if you love the idea of a white cat and are prepared to care for their needs, they can be a fantastic choice
+    </p>
+</body>
+</html>

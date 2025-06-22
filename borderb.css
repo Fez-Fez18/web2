@@ -1,0 +1,8 @@
+.bannerpp {
+    background-color: #ffdab9; /* Banner color */
+    color: white; /* Text color */
+    padding: 10px; /* Space inside the banner */
+    text-align: center; /* Center the text */
+    border-radius: 5px; /* Rounded corners */
+    display: block; /* Ensures proper alignment */
+}

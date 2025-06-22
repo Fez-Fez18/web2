@@ -1,0 +1,52 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+<title>  
+     Cat
+</title>
+<link rel= "stylesheet" href="heading_colours.css"/>
+</head>
+<body>
+<h1>
+    Cats
+</h1>
+<h2>
+    What are cats?
+</h2>
+<p>
+Cats (Felis catus) are small domesticated carnivorous mammals that belong to the family Felidae. They are known for their agility, playful behavior, 
+and ability to hunt vermin. Domestication of cats is believed to have occurred around 7500 BC in the Near East, and they are commonly kept as pets and companions today
+</p>
+<h2>
+    Kinds of cat colours
+</h2>
+<h3>
+    Orange
+</h3>
+<p>
+    Orange cats, often referred to as ginger or marmalade cats, are known for their vibrant personalities, affectionate nature, and distinctive coat patterns
+</p>
+<a href="orange-cats.html">More...</a>
+<h3>
+    White
+</h3>
+<p>
+    These are belived to be the nicest of the cat kingdom, as they are often seen just laying around and most like cuddling their owners, which is every cat but they do it most then all the other cats.
+</p>
+<h3>
+    Brown Cats
+</h3>
+<p>
+These are seen as the calmest cats in the kingdom, as they just like the white cats can be seen aslo laying around.
+</p>
+<h2>
+    Why I recommend you get a cats?
+</h2>
+<p>
+    Cats are the best comfort animal and they are best emotionally stable animal which is closer to humans.
+</p>
+<p>
+    In my opinion i belive cats are the best domesticated animal in the world and you should deffinately get one.
+</p>
+</body>
+</html>

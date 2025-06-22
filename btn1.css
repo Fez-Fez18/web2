@@ -1,0 +1,8 @@
+.mybtn {
+font-size: 25px;
+background-color: #ffdab9;
+color: white;
+border-radius: 25px;
+outline: none;
+border: none;/*For that flat, minimal look*/
+}

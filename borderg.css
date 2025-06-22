@@ -1,0 +1,8 @@
+.bannerg {
+    background-color: #5a5959; /* Banner color */
+    color: rgb(0, 0, 0); /* Text color */
+    padding: 10px; /* Space inside the banner */
+    text-align: center; /* Center the text */
+    border-radius: 5px; /* Rounded corners */
+    display: block; /* Ensures proper alignment */
+}

@@ -1,0 +1,44 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+<title>
+Brown cats
+</title>
+<link rel="stylesheet" href="borderbr.css"
+</head>
+<body>
+    <h1 class="bannerbr">
+        Brown cats
+    </h1>
+    <h2 class="bannerbr">
+        Types of Brown cats
+    </h2>
+    <p>
+        <li>Havana Brown</li>
+        <li>Burmese</li>
+        <li>Bombay</li>
+        <li>Devon Rex</li>
+        <li>Balinese</li>
+    </p>
+    <h2 class="bannerbr">
+        Characteristics of Brown cats
+    </h2>
+    <p>
+        They can be affectionate, playful, independent, shy, or outgoing.  
+    </p>
+    <h2 class="bannerbr">
+        Physical attributes
+    </h2>
+    <p>
+        Brown cats can have short, medium, or long hair and the texture can range from sleek and smooth to smooth to soft and fluffly.
+        They can come in various shapes and sizes, from petite and slender to large and muscular.
+        Also the colour of their paws and nose leather can vary and could be pink, black and brown.
+    </p>
+    <h2 class="bannerbr">
+        Should you get an Brown cats?
+    <p>
+        If you are responsible and can make time for your cat then yes you can get yourself a cat.
+    </p>
+    </h2>
+</body>
+</html>

@@ -1,0 +1,96 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+<title>
+Gray cats
+</title>
+<link rel="stylesheet" href="borderg.css">
+</head>
+<body>
+    <h1 class="bannerg">
+        Gray cats
+    </h1>
+    <h2>
+        Types of Gray cats
+    </h2>
+    <li>Persian</li>
+    <li>Chartreux</li>
+    <li>Nebelung</li>
+    <li>Korat</li>
+    <li>British Shorthair</li>
+    <h2 class="bannerg">
+        Characteristics of Gray cats
+    </h2>
+    <h3 class="bannerg">
+        Independent Nature
+    </h3>
+    <p>
+        Cats are known for their self-sufficiency and ability to entertain themselves.
+    </p>
+    <h3 class="bannerg">
+        Curiosity
+    </h3>
+    <p>
+        They love exploring their surroundings and investigating new objects.
+    </p>
+    <h3 class="bannerg">
+        Playfulness
+    </h3>
+    <p>
+        Even as adults, cats enjoy playing, chasing, and pouncing.
+    </p>
+    <h3 class="bannerg">
+        Affectionate (On their terms)
+    </h3>
+    <p>
+        While some cats are cuddly, others prefer showing affection in subtle ways.
+    </p>
+    <h3 class="bannerg">
+        Hunting Skills
+    </h3>
+    <p>Even indoor cats retain their natural hunting instincts, often seen in their play behavior.</p>
+    <h3 class="bannerg">
+        Communication
+    </h3>
+    <p>Cats use meows, purrs, and body language to express their feelings.</p>
+    <h3 class="bannerg">
+        Sensitivity to routine
+    </h3>
+    <p>Cats thrive on consistency and may dislike sudden changes in their environment.</p>
+    <h2 class="bannerg">
+        Physical attributes
+    </h2>
+    <h3 class="bannerg">
+        Coat Colour
+    </h3>
+    <p>
+        Gray cats can range from light silver to deep charcoal. Some have subtle patterns like tabby stripes or spots
+    </p>
+    <h3 class="bannerg">
+        Eye Colour
+    </h3>
+    <p>
+        Many gray cats have captivating yellow, green, or blue eyes, which contrast beautifully with their fur
+    </p>
+    <h3 class="bannerg">
+        Build
+    </h3>
+    <p>
+        Most gray cats are medium to large in size, with muscular physiques. 
+        Some breeds, like the Russian Blue, have a slender frame, while others, like the British Shorthair, are stockier
+    </p>
+    <h3 class="bannerg">
+        Fur Texture
+    </h3>
+    <p>
+        Depending on the breed, their fur can be short and dense (like the Russian Blue) or long and silky (like the Nebelung)
+    </p>
+    <h3 class="bannerg">
+        Whiskers
+    </h3>
+    <p>
+        Often white or gray, their whiskers stand out against their coat and enhance their expressive faces
+    </p>
+    <h2 class="bannerg">
+        Should you get an Gray cats?
+    </h2>
